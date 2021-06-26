@@ -3,7 +3,7 @@
 This repository is created for an assignment for Tech Talent South. It is a basic website designed using HTML5 exclusively, to demostrate knowledge that has been gained through the Day 4 lecture on HTML. Some of the things that I have demonstrated while working on this project include:
 
 * Creating an html page
-* utilizing the <div> tags
+* utilizing the div tags
 * creating links to various pages
 * Creating a table
 * Creating Lists
